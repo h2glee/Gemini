@@ -4,7 +4,7 @@ import google.generativeai as genai
 import io  # io 모듈을 임포트합니다.
 
 # Google Generative AI 설정
-genai.configure(api_key="AIzaSyCcUAJukudWVu8EgsWdtQ3vxc4MyqwtUmU")
+genai.configure(api_key="google api key    ")
 generation_config = {
     "temperature": 0.4,
     "top_p": 1,
